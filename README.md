@@ -28,6 +28,7 @@ Generate Credentials
 ```bash
   Go to console.cloud.google.com
   Add Calendar API from Services
+  Save credentials.json in base directory
 ```
 
 
